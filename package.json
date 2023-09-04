@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "open": "^9.1.0"
+  },
+  "name": "falconeye",
+  "version": "1.0.0",
+  "description": "OSINT Tools (open source intelegence)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node index.js"
+  },
+  "keywords": [
+    "falconeye"
+  ],
+  "author": "Rahmat Hidayat",
+  "license": "ISC"
+}
